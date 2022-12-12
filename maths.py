@@ -6,7 +6,7 @@
 6 / 3
 2 ** 3
 
-PEMDAS
+PEMDASLR
 P = Parentheses () 
 E = Exponents **
 M = Multiplication * 
