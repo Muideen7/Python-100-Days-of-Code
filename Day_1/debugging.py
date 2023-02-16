@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # write your code below this line 👇
 
 print("Day 1 - String Manipulation")
