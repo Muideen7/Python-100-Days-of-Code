@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # write your code below this line 👇
 
 # Taking the user inputs or data
